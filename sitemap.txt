@@ -1,3 +1,10 @@
+http://example.com/gallery/know/index.html
+http://example.com/gallery/index.html
+http://example.com/gallery/simple/index.html
+http://example.com/movies/index.html
+http://example.com/books/index.html
+http://example.com/comments/index.html
+http://example.com/music/index.html
 http://example.com/about/index.html
 http://example.com/2023/07/29/hello-world/
 http://example.com/categories/index.html
