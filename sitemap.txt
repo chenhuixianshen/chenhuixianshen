@@ -1,6 +1,7 @@
-http://example.com/gallery/know/index.html
-http://example.com/gallery/index.html
+http://example.com/handshake/index.html
 http://example.com/gallery/simple/index.html
+http://example.com/gallery/index.html
+http://example.com/gallery/know/index.html
 http://example.com/movies/index.html
 http://example.com/books/index.html
 http://example.com/comments/index.html
