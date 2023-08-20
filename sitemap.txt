@@ -1,3 +1,4 @@
+http://example.com/books/index.html
 http://example.com/p/a77a9ebe.html
 http://example.com/p/678fc2ac.html
 http://example.com/surfing/index.html
@@ -18,7 +19,6 @@ http://example.com/gallery/simple/index.html
 http://example.com/gallery/index.html
 http://example.com/gallery/know/index.html
 http://example.com/movies/index.html
-http://example.com/books/index.html
 http://example.com/comments/index.html
 http://example.com/music/index.html
 http://example.com/404.html
